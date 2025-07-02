@@ -87,21 +87,7 @@ I'm a passionate **full-stack developer** specializing in modern web development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaPrakhar25&layout=compact&langs_count=8&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SharmaPrakhar25&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/SharmaPrakhar25/SharmaPrakhar25/output/github-contribution-grid-snake.svg)
-
 </div>
-
----
-
-## 🏆 Recent Achievements
-
-- 🎯 **100+ commits** in the last month across multiple projects
-- 🚀 **3 production deployments** with zero downtime  
-- 📱 **Built 5+ responsive web applications** this quarter
-- 🌟 **Contributed to 10+ open source projects**
-- 💼 **Helped 20+ clients** with their web development needs
 
 ---
 
